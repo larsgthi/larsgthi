@@ -1,6 +1,5 @@
 My name is Lars Gunnar Thingnes
-I'm a master student in information security at NTNU Norway.
+I work at Eidsiva Bredband.
+I'm also a master student in information security at NTNU Norway.
 
-Interests:
-Infosec
-AI
+I'm currently working on my master thesis.
